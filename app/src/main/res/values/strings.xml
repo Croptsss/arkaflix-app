@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArkaFlix</string>
+    <string name="app_version">1.3.0</string>
+    <!-- Modo 1: la web completa con navegación por flechas añadida por la app. Modo 2: la versión TV de la web. -->
+    <string name="url_web">https://arkaflix.com</string>
+    <string name="url_tv">https://arkaflix.com/tv</string>
+    <string name="mode_web">Modo: web completa</string>
+    <string name="mode_tv">Modo: versión TV</string>
+</resources>
